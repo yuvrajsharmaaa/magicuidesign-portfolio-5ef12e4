@@ -42,7 +42,7 @@ export const DATA = {
     { href: "https://drive.google.com/file/d/1P-IEY3fIMrT2JqiCAcjrmzXD93-p7Zor/view?usp=sharing", icon: DownloadIcon, label: "Resume" },
   ],
   contact: {
-    email: "hello@example.com",
+    email: "bacardisharmafreelance@gmail.com",
     tel: "+123456789",
     social: {
       GitHub: {
