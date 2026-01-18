@@ -119,7 +119,7 @@ export const DATA = {
       href: "https://www.youtube.com/@TheEngineeRooom",
       location: "New Delhi, India",
       title: "Lead",
-      logoUrl: "",
+      logoUrl: "/engineeroom.png",
       start: "January 2025",
       end: "Ongoing",
       description:
@@ -131,7 +131,7 @@ export const DATA = {
       school: "APEEJAY SCHOOL PANCHSHEEL PARK",
       href: "https://www.apeejay.edu/panchsheel/",
       degree: "Science Stream (PCM)",
-      logoUrl: "/apeejay.jpg",
+      logoUrl: "/apeejay.png",
       start: "2009",
       end: "2023",
     },
@@ -177,7 +177,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "",
     },
     {
       title: "Lorri",
