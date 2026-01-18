@@ -175,7 +175,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/resumax.png",
       video:
         "",
     },
@@ -206,7 +206,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/lorri.png",
       video: "",
     },
     {
@@ -229,8 +229,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image:
-        "https://private-user-images.githubusercontent.com/154763797/452038640-eb5d3144-efd8-47ec-8652-f6cc68b73884.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg3NzIzNTcsIm5iZiI6MTc2ODc3MjA1NywicGF0aCI6Ii8xNTQ3NjM3OTcvNDUyMDM4NjQwLWViNWQzMTQ0LWVmZDgtNDdlYy04NjUyLWY2Y2M2OGI3Mzg4NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExOFQyMTM0MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNWY1ODc4ODYwMjQyYjdkOWVjYzdkMzU4N2Y1ZTI4ZWUxZjVlODNmMTJkNTI2NDZlOWYzZDM2NTcwZjVhOGY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.PLpr6etRH0rR2lLm_qCb0bzWpRzcSewtA5TDC_UXXBk",
+      image: "/terminalcraft.png",
       video: "",
     },
     {
@@ -255,7 +254,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "/cattle.png",
       video: "",
     },
   ],
