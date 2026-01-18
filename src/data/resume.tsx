@@ -19,9 +19,9 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "I'm a software engineer who mostly works in web development, XR, and game dev.",
+    "I'm a software engineer who mostly works in web development and XR",
   summary:
-    "I usually work across three distinct tech stacks—because curiosity never let me stay idle. Most days, I'm doing full-stack development, helping businesses improve their websites or build better digital products using web and XR tech.\n\nWhen I'm not doing that, I'm usually building games, jumping into hackathons, or messing around with ideas just to see if they work.\n\nI didn't get into programming with a big plan. I started because I was curious, and that curiosity still drives how I work today. My process is simple: try something new, break it, learn from it, and build it better the next time.\n\nThat mindset shows up in everything I build—whether it's a website, an experiment, or a side project. If you share the same curiosity or like my work and want to hire me, feel free to connect.",
+    "I usually work across three distinct tech stacks because curiosity never let me stay idle. Most days, I'm doing full-stack development, helping businesses improve their websites or build better digital products using web and XR tech.\n\nWhen I'm not doing that, I'm usually building games, jumping into hackathons, or messing around with ideas just to see if they work.\n\nI didn't get into programming with a big plan. I started because I was curious, and that curiosity still drives how I work today. My process is simple: try something new, break it, learn from it, and build it better the next time.\n\nThat mindset shows up in everything I build—whether it's a website, an experiment, or a side project. If you share the same curiosity or like my work and want to hire me, feel free to connect.",
   avatarUrl: "/me.png",
   skills: [
     { name: "React", icon: ReactLight },
