@@ -19,9 +19,13 @@ export default function HackathonsSection() {
           <div className="flex flex-col gap-y-3 items-center justify-center">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">I like building things</h2>
             <p className="text-muted-foreground md:text-lg/relaxed lg:text-base/relaxed xl:text-lg/relaxed text-balance text-center">
-              During my time in university, I attended {DATA.hackathons.length}+
-              hackathons. People from around the country would come together and
-              build incredible things in 2-3 days. It was eye-opening to see the endless possibilities brought to life by a group of motivated and passionate individuals.
+              During my time at university, I attended one hackathon, and that
+              first experience changed everything. It helped me discover what I
+              truly enjoyed and led to the product I am still building today.
+              After that, I kept attending hackathons not just to build, but for
+              the fun, the energy, and the chance to meet like-minded people.
+              These events gave me a sense of community I had been missing in
+              college.
             </p>
           </div>
         </div>
