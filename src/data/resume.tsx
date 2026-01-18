@@ -90,18 +90,6 @@ export const DATA = {
 
   work: [
     {
-      company: "Embrizon Technologies",
-      href: "https://embrizon.com",
-      badges: [],
-      location: "Hyderabad, India",
-      title: "AI Intern",
-      logoUrl: "/embrizon.png",
-      start: "June 2024",
-      end: "August 2024",
-      description:
-        "Contributed to AI-driven systems for embedded devices and low-cost automation. Introduced to Python Libraries and Frameworks.",
-    },
-    {
       company: "ArchDo",
       badges: [],
       href: "https://archdo.in",
@@ -112,6 +100,18 @@ export const DATA = {
       end: "Ongoing",
       description:
         "Worked with teams active participation in hackathons and focused on real world applications and use cases. Explored full stack development with a focus on Web3 and XR.",
+    },
+    {
+      company: "Embrizon Technologies",
+      href: "https://embrizon.com",
+      badges: [],
+      location: "Hyderabad, India",
+      title: "AI Intern",
+      logoUrl: "/embrizon.png",
+      start: "June 2024",
+      end: "August 2024",
+      description:
+        "Contributed to AI-driven systems for embedded devices and low-cost automation. Introduced to Python Libraries and Frameworks.",
     },
     {
       company: "TheEngineeRoom",
