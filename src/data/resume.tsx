@@ -235,6 +235,7 @@ export const DATA = {
     },
     {
       title: "Cattle Classification using DL",
+      href: "https://colab.research.google.com/drive/1yg7HOjnf747Lv9Y6uCdBjK5XLdjmtPHL?usp=sharing",
       dates: "April 2024 - September 2025",
       active: true,
       description:
@@ -247,7 +248,6 @@ export const DATA = {
         "Matplotlib",
         "scikit-learn",
       ],
-
       links: [
         {
           type: "Colab Notebook",
@@ -255,6 +255,8 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
+      image: "",
+      video: "",
     },
   ],
   hackathons: [
